@@ -3,7 +3,7 @@ package Spreadsheet::DataFromExcel;
 use warnings;
 use strict;
 
-our $VERSION = '0.0102';
+our $VERSION = '1.001001';
 
 use Spreadsheet::ParseExcel;
 

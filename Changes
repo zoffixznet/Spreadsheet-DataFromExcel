@@ -1,5 +1,10 @@
 Revision history for Spreadsheet-DataFromExcel
 
+1.001001 2014-01-25
+        - Converted to dzil
+        - Moved author tests to xt/
+        - Fixed RT#92436 (make some valid tests)
+
 0.0102  2013-10-30
         - Minor fixes to comply with specs and Kwalitee game
 
