@@ -1,5 +1,9 @@
 Revision history for Spreadsheet-DataFromExcel
 
+1.001002 2014-01-25
+        - Changed the preferred bug tracker and added bug tracker/repo
+          links in the POD
+
 1.001001 2014-01-25
         - Converted to dzil
         - Moved author tests to xt/
