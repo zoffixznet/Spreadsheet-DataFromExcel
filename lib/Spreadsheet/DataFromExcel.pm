@@ -3,7 +3,7 @@ package Spreadsheet::DataFromExcel;
 use warnings;
 use strict;
 
-our $VERSION = '1.001001';
+our $VERSION = '1.001003';
 
 use Spreadsheet::ParseExcel;
 
@@ -256,14 +256,23 @@ Takes no arguments, returns the reason for why C<load()> failed.
 
 L<Spreadsheet::ParseExcel>, L<Spreadsheet::Read>
 
+=head1 REPOSITORY
+
+Fork this module on GitHub:
+L<https://github.com/zoffixznet/Spreadsheet-DataFromExcel>
+
 =head1 AUTHOR
 
-'Zoffix, C<< <'zoffix at cpan.org'> >>
-(L<http://haslayout.net/>, L<http://zoffix.com/>, L<http://zofdesign.com/>)
+Zoffix Znet, C<< <zoffix at cpan.org> >>
+(L<http://zoffix.com>, L<http://haslayout.net>)
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-spreadsheet-datafromexcel at rt.cpan.org>, or through
+Please report any bugs or feature requests on GitHub
+L<https://github.com/zoffixznet/Spreadsheet-DataFromExcel/issues>
+or, alternatively and not preferred, RT: 
+
+C<bug-spreadsheet-datafromexcel at rt.cpan.org>, or through
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Spreadsheet-DataFromExcel>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
 
